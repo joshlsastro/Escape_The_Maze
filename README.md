@@ -1,1 +1,21 @@
-# Escape_The_Maze
+# Escape the Maze
+
+This repository hosts the Escape the Maze games I've made. Here are links to play them in your browser:
+
+1. [Escape the Maze](https://trinket.io/embed/python/4ec3a2430e)
+
+Escape the Maze 2 will come out fairly soon.
+
+## For Programmers
+
+### Prerequisites
+
+To run the code without a browser, use a Python 3 interpreter. If you use Python 2, you'll have to put quotes around everything you type in as input.
+
+The game code is always main.py in the folder corresponding to the number of the game. (e.g. folder 1 corresponds to the first game).
+
+### Noteworthy Stuff
+
+The shebang at the top of Python Code is #!/bin/python3 because that is how to tell Trinket (where the game is played online) that the code is Python 3 code. 
+
+The code does **not** comply with [PEP 8](https://www.python.org/dev/peps/pep-0008/) for a couple of reasons. First, the original Escape the Maze was written in 2016, before I knew about PEP 8. I don't want to go through and change every line just to comply with the style guide. Also, Trinket uses 2-space indentation, not 4 space. As a result, Escape the Maze 2 will use 2-space indents. 
