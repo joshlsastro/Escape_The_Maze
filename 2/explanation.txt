@@ -1,0 +1,9 @@
+Troll's Riddle:
+Mr. Liar always tells lies.
+I asked Mr. Liar, "If I asked you, 'Am I a troll?', would you say 'yes'? "
+What did Mr. Liar say?
+
+Explanation:
+Mr. Liar thought about the question. If he'd been asked 'Am I a troll?', he would lie and say 'no'.
+Since Mr. Liar would not have said 'yes', 'no' is the truthful answer to the main question.
+Therefore, he lied and answered "yes".
