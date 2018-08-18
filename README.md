@@ -4,6 +4,7 @@ This repository hosts the Escape the Maze games I've made. Here are links to pla
 
 1. [Escape the Maze](https://trinket.io/embed/python/4ec3a2430e)
 2. [Escape the Maze 2](https://trinket.io/embed/python/6fbcbe9e58)
+* [Escape the Maze Demo](https://trinket.io/embed/python/fa8e83d1e3)
 
 ## For Programmers
 
