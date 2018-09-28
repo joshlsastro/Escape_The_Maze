@@ -234,9 +234,9 @@ while(True):
           else:
             print(" WRONG!")
             wait()
-            print("You lose one chance.")
+            print(" The doors will remain locked.")
             wait()
-            lives=lives-1
+            puzzle=2
         elif puzzle==2:
           ask()
           if x=="laptop":
