@@ -23,3 +23,8 @@ The code does **not** comply with [PEP 8](https://www.python.org/dev/peps/pep-00
 ## Credits
 
 Thanks to [trinket](https://trinket.io) for making it very convenient to run Python in the browser and to Tony Munroe for creating cowsay.
+
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
