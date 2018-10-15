@@ -120,6 +120,8 @@ def save():
   filename=check_txt(filename)
   with open(filename,"w") as f:
     f.write("%s %s %s %s\n"%(px,py,lives,name))
+  with open("main.py","a") as f: #Fixes Trinket Not Saving Files
+    f.write("")
 
 def go():
   """Called when player beats a room."""

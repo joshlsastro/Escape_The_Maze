@@ -99,6 +99,8 @@ def save():
   filename=input("What file do you want to save to? ")
   with open(filename,"w") as f:
     f.write(str(px)+" "+str(py)+" "+str(lives)+"\n")
+  with open("main.py","a") as f: #Fixes Trinket Not Saving Files
+    f.write("")
 
 def go():
   global puzzle
