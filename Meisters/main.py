@@ -241,7 +241,6 @@ while(True):
     print("If you want to restart the game, click the arrow at the top.")
     break
   else:
-      else:
     print("You ran out of lives.")
     wait()
     print("Your monkey overlords are placing you in the start of the maze.")
