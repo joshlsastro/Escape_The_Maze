@@ -6,6 +6,8 @@ This repository hosts the Escape the Maze games I've made. Here are links to pla
 2. [Escape the Maze 2](https://trinket.io/python/6fbcbe9e58)
 * [Escape the Maze Demo](https://trinket.io/python/fa8e83d1e3)
 
+The game made specifically for Meistersingers is coming soon.
+
 ## For Programmers
 
 ### Prerequisites
