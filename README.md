@@ -4,6 +4,14 @@ WARNING: If you've played the game on Trinket, all of your save files will be lo
 
 This repository hosts the Escape the Maze games I've made. Here are links to play them in your browser:
 
+1. [Escape the Maze](https://joshlsastro.github.io/python-online/?https://raw.githubusercontent.com/joshlsastro/Escape_The_Maze/refs/heads/master/1/online.py)
+2. [Escape the Maze 2](https://joshlsastro.github.io/python-online/?https://raw.githubusercontent.com/joshlsastro/Escape_The_Maze/refs/heads/master/2/online.py)
+
+* [Escape the Maze Demo](https://joshlsastro.github.io/python-online/?https://raw.githubusercontent.com/joshlsastro/Escape_The_Maze/refs/heads/master/Demo/online.py)
+* [For Meisters](https://joshlsastro.github.io/python-online/?https://raw.githubusercontent.com/joshlsastro/Escape_The_Maze/refs/heads/master/Meisters/online.py)
+
+Here are links to play them via Trinket:
+
 1. [Escape the Maze](https://trinket.io/python/4ec3a2430e)
 2. [Escape the Maze 2](https://trinket.io/python/6fbcbe9e58)
 
