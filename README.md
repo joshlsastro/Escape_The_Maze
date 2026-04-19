@@ -1,5 +1,7 @@
 # Escape the Maze
 
+WARNING: If you've played the game on Trinket, all of your save files will be lost when Trinket [goes down in August 2026](https://trinket.io/announcement). Make sure you've copied your save files to your computer before then.
+
 This repository hosts the Escape the Maze games I've made. Here are links to play them in your browser:
 
 1. [Escape the Maze](https://trinket.io/python/4ec3a2430e)
@@ -18,7 +20,7 @@ The game code is always main.py in the folder corresponding to the number of the
 
 ### Noteworthy Stuff
 
-The shebang at the top of Python Code is #!/bin/python3 because that is how to tell Trinket (where the game is played online) that the code is Python 3 code. 
+The shebang at the top of Python Code is #!/bin/python3 because that was how to tell Trinket (where the game was played online) that the code is Python 3 code.
 
 The code does **not** comply with [PEP 8](https://www.python.org/dev/peps/pep-0008/) for several reasons. Mostly, it boils down to the fact that some of the code is old and I made it for fun.
 
@@ -30,4 +32,3 @@ Thanks to [trinket](https://trinket.io) for making it very convenient to run Pyt
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 This work by joshlsastro is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
